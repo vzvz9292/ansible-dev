@@ -1,7 +1,6 @@
 # ansible-dev (Learning to track my code for ansible development)
  
- One paragraph of your project description goes here. Describe what you're trying to do.
- What is the purpose of putting up this repo?
+ I want to learn how to version control projects with git. vzvz9292 11/02/2020
  
  ## Getting Started
  
